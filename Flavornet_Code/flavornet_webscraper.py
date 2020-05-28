@@ -1,3 +1,4 @@
+from pathlib import Path
 from bs4 import BeautifulSoup
 import csv
 
@@ -19,7 +20,9 @@ for index in range(1, len(odor_tags)):
 
 
 # Write to csv file
-with open('../Datasets/flavornet_dataset.csv', 'w+') as file:
+data_folder = Path('../Datasets/')
+file_to_open = data_folder/'flavornet_dataset.csv'
+with open(file_to_open, 'w+') as file:
     header = ['Odorant', 'Odor']
     writer = csv.writer(file)
     writer.writerow(header)
