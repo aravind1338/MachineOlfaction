@@ -19,7 +19,7 @@ for index in range(1, len(odor_tags)):
 
 
 # Write to csv file
-with open('/Users/aravind/PycharmProjects/MachineOlfaction/Datasets/flavornet_dataset.csv', 'w+') as file:
+with open('../Datasets/flavornet_dataset.csv', 'w+') as file:
     header = ['Odorant', 'Odor']
     writer = csv.writer(file)
     writer.writerow(header)
