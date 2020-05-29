@@ -19,10 +19,16 @@ def flavornet_data():
     #print(len(odor_tags), len(odorant_tags))   #738 molecules, first row is empty
 
     for index in range(1, len(odor_tags)):
-        odorant = odorant_tags[index].text.strip('\n') # Get the odorant from the tag and strip newline from the name
-        odorant = odorant.strip(',') # Strip leading and trailing commas from the molecule name
-        odor = odor_tags[index].text # Get the odor from the tag
-        SMILES = molecule_to_smiles(odorant.replace(" ", ""))  # Get the SMILES representation for the molecule
+        odorant = odorant_tags[index].text.strip('\n')  # Get the odorant from the tag and strip newline from the name
+        odorant = odorant.strip(',')  # Strip leading and trailing commas from the molecule name
+        odorant = odorant.replace(" ", "")  # Clean up spaces
+        odorant= replace_unicode(odorant)  # Replace greek symbols with names
+
+        odor = odor_tags[index].text  # Get the odor from the tag
+        SMILES = molecule_to_smiles(odorant)  # Get the SMILES representation for the molecule
+
+        if index % 10 == 0:
+            print("Finished %d molecules" % index)
 
         temp = [odorant, odor, SMILES]
         odors_and_odorants.append(temp)
@@ -36,6 +42,17 @@ def flavornet_data():
         writer = csv.writer(file)
         writer.writerow(header)
         writer.writerows(odors_and_odorants)
+
+
+# A function to replace greek symbols with their names
+def replace_unicode(molecule):
+    alpha_unicode = u"\u03B1"
+    beta_unicode = u"\u03B2"
+    gamma_unicode = u"\u03B3"
+    delta_unicode = u"\u03B4"
+
+    molecule = molecule.replace(alpha_unicode, "alpha").replace(beta_unicode, "beta").replace(gamma_unicode, "gamma").replace(delta_unicode, "delta")
+    return molecule
 
 
 # A function that gives you the SMILES representation of a molecule

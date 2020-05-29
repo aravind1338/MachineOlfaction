@@ -5,12 +5,12 @@ methanethiol,"sulfur, gasoline, garlic",CS
 propanal,"solvent, pungent",CCC=O
 pentane,alkane,CCCCC
 propanol,"alcohol, pungent",CCCO
-dimethyl sulfide,"cabbage, sulfur, gasoline",CSC
-ethyl formate,pungent,CCOC=O
-methyl ethyl ketone,ether,CCC(C)=O
-methyl ethyl sulfide,"sulfur, garlic",CCSC
+dimethylsulfide,"cabbage, sulfur, gasoline",CSC
+ethylformate,pungent,CCOC=O
+methylethylketone,ether,CCC(C)=O
+methylethylsulfide,"sulfur, garlic",CCSC
 hexane,alkane,CCCCCC
-ethyl acetate,pineapple,CCOC(C)=O
+ethylacetate,pineapple,CCOC(C)=O
 methylbutenol,herb,CCC=C(C)O
 pentanone,ether,CCCC(C)=O
 isobutanol,"wine, solvent, bitter",CC(C)CO
@@ -21,29 +21,29 @@ methylbutanal,malt,CCC(C)C=O
 pyrrolidine,alkaline,C1CCNC1
 ethanol,sweet,CCO
 thiophene,garlic,s1cccc1
-propanoic acid,"pungent, rancid, soy",CCC(O)=O
+propanoicacid,"pungent, rancid, soy",CCC(O)=O
 diacetyl,butter,CC(=O)C(C)=O
-methyl methylbutanoate,apple,CCC(C)(C)C([O-])=O
+methylmethylbutanoate,apple,CCC(C)(C)C([O-])=O
 butanol,"medicine, fruit",CCCCO
 butanol,wine,CCCCO
 mercaptoacetaldehyde,cabbage,SCC=O
 butanal,"pungent, green",CCCC=O
 pentenone,"fish, pungent",CC=CC(C)=O
-methyl methylpropanoate,flower,CC(C)(C)C([O-])=O
-methyl thiocyanate,sulfur,CSC#N
+methylmethylpropanoate,flower,CC(C)(C)C([O-])=O
+methylthiocyanate,sulfur,CSC#N
 "2,3-pentadione","cream, butter",CCC(=O)C(C)=O
 pentenol,"butter, pungent",CCCC=CO
-butyric acid,"rancid, cheese, sweat",CCCC(O)=O
+butyricacid,"rancid, cheese, sweat",CCCC(O)=O
 hexanone,"ether, grape",CCCCC(C)=O
-"alpha,γ-dimethylallyl alcohol","green, vinyl",0
-ethyl propionate,fruit,CCOC(=O)CC
+"alpha,gamma-dimethylallylalcohol","green, vinyl",0
+ethylpropionate,fruit,CCOC(=O)CC
 heptane,alkane,CCCCCCC
 acetoin,"butter, cream",CC(O)C(C)=O
-methyl butanoate,"ether, fruit, sweet",CCCC(=O)OC
-acetic acid,sour,CC(O)=O
-diethyl acetal,"fruit, cream",CCOC(C)OCC
+methylbutanoate,"ether, fruit, sweet",CCCC(=O)OC
+aceticacid,sour,CC(O)=O
+diethylacetal,"fruit, cream",CCOC(C)OCC
 2-methyl-1-butanol,malt,CCC(C)CO
-dimethyl disulfide,"onion, cabbage, putrid",CSSC
+dimethyldisulfide,"onion, cabbage, putrid",CSSC
 hexanone,ether,CCCCC(C)=O
 methyl-2-butenal,"green, fruit",CC=C(C)C=O
 3-methyl-1-butanol,"whiskey, malt, burnt",CC(C)CCO
@@ -59,10 +59,10 @@ pentanol,balsamic,CCCCCO
 epoxylinalool,flower,CC(C)=CCCC(C)(O)C1=CO1
 methylpentanol,pungent,CCCCC(C)O
 toluene,paint,Cc1ccccc1
-isobutyl acetate,"fruit, apple, banana",CC(C)CCC([O-])=O
+isobutylacetate,"fruit, apple, banana",CC(C)CCC([O-])=O
 methyl-2-butenol,herb,CC=CC(C)O
-methyl methylbutyrate,apple,CCC(C)(C)C([O-])=O
-ethyl isobutyrate,"sweet, rubber",CCOC(=O)C(C)C
+methylmethylbutyrate,apple,CCC(C)(C)C([O-])=O
+ethylisobutyrate,"sweet, rubber",CCOC(=O)C(C)C
 1-hexenol,green,CCCCC=CO
 hexanal,"grass, tallow, fat",CCCCCC=O
 4-methyl-3-penten-2-one,"sweet, chemical",CC(C)=CC(C)=O
@@ -72,43 +72,43 @@ m-xylene,plastic,Cc1cccc(C)c1
 hydroxypentanone,"herb, truffle",CCCC(=O)CO
 mercaptobutanone,onion,CCC(=O)CS
 isobutyraldehyde,"pungent, malt, green",CC(C)C=O
-ethyl butyrate,apple,CCCC(=O)OCC
+ethylbutyrate,apple,CCCC(=O)OCC
 butanediol,"fruit, onion",CCCC(O)O
 pentanal,"almond, malt, pungent",CCCCC=O
-propyl propanoate,pineapple,CCCOC(=O)CC
+propylpropanoate,pineapple,CCCOC(=O)CC
 nonenone,baked,CCCCCC=CC(C)=O
 octane,alkane,CCCCCCCC
-butyl acetate,pear,CCCCOC(C)=O
+butylacetate,pear,CCCCOC(C)=O
 furfural,"bread, almond, sweet",O=Cc1occc1
 methylbutenthiol,"amine, smoke",CCC=C(C)S
 hydroxypentanone,"truffle, earth, nut",CCCC(=O)CO
 azine,rancid,c1ccncc1
-methyl pyrazine,popcorn,Cc1cnccn1
+methylpyrazine,popcorn,Cc1cnccn1
 ethoxypropanol,fruit,CCOC(O)CC
 1-(methylthio)ethanethiol,thiamin,CSC(C)S
 2-hexenal,"apple, green",CCCC=CC=O
 (E)-2-hexenal,"green, leaf",CCC/C=C/C=O
-(2S)-2-methyl-ethyl ester-butanoic acid,apple,0
-isopropyl butanoate,"pungent, fruit",CCCC(=O)OC(C)C
-furfuryl alcohol,burnt,OCc1occc1
-ethyl methylbutyrate,apple,CCC(C)(CC)C([O-])=O
-ethyl 3-methylbutanoate,fruit,CCOC(=O)CC(C)C
+(2S)-2-methyl-ethylester-butanoicacid,apple,0
+isopropylbutanoate,"pungent, fruit",CCCC(=O)OC(C)C
+furfurylalcohol,burnt,OCc1occc1
+ethylmethylbutyrate,apple,CCC(C)(CC)C([O-])=O
+ethyl3-methylbutanoate,fruit,CCOC(=O)CC(C)C
 2-hexenal,"fat, rancid",CCCC=CC=O
-isovaleric acid,"sweat, acid, rancid",CC(C)CC(O)=O
+isovalericacid,"sweat, acid, rancid",CC(C)CC(O)=O
 methylfuranthiol,meat,Cc1ccoc1S
 (Z)-3-hexenol,grass,CC\C=C/CCO
 methylbutanone,camphor,CCC(=O)CC
 heptenone,metal,CCCC=CC(C)=O
-methylbutyric acid,"cheese, sweat",CCC(C)C(O)=O
+methylbutyricacid,"cheese, sweat",CCC(C)C(O)=O
 hexanol,"resin, flower, green",CCCCCCO
 heptanol,herb,CCCCCCCO
 dimethylthiazole,"rubber, mold",Cc1scc(C)n1
-isoamyl acetate,banana,CC(C)CCCC([O-])=O
-2-methylbutyl acetate,fruit,CCC(C)CCC([O-])=O
+isoamylacetate,banana,CC(C)CCCC([O-])=O
+2-methylbutylacetate,fruit,CCC(C)CCC([O-])=O
 2-hexenol,"leaf, green, wine, fruit",CCCC=CCO
 methional,cooked potato,CSCCC=O
 o-picoline,sweat,Cc1ccccn1
-"allyl isothiocyanate, allyspol","sulfur, pungent, garlic",0
+"allylisothiocyanate,allyspol","sulfur, pungent, garlic",0
 (E)-2-hexenol,"green, leaf, walnut",CCC/C=C/CO
 o-xylene,geranium,Cc1ccccc1C
 heptanone,soap,CCCCCC(C)=O
@@ -116,41 +116,41 @@ mercaptopentanone,"sulfur, onion, meat",CCCC(=O)CS
 styrene,"balsamic, gasoline",C=Cc1ccccc1
 acetylfuran,balsamic,CC(=O)c1occc1
 methyl-2-(methylthio)acetate,"cooked potato, roasted nut",COC(=O)CSC
-propyl butyrate,"pineapple, solvent",CCCOC(=O)CCC
-ethyl valerate,"yeast, fruit",CCCCC(=O)OCC
+propylbutyrate,"pineapple, solvent",CCCOC(=O)CCC
+ethylvalerate,"yeast, fruit",CCCCC(=O)OCC
 mercaptopentanone,roasted meat,CCCC(=O)CS
 methyltetrahydrofuranthiol,onion,CC1(S)CCCO1
 heptanal,"fat, citrus, rancid",CCCCCCC=O
 4-heptenal,"biscuit, cream",CCC=CCCC=O
-bornyl methyl ether,"earth, must",COC1CC2CCC1(C)C2(C)C
-dimethyl pyrazine,"cocoa, roasted nut, roast beef, medicine",Cc1nccnc1C
-dimethyl pyrazine,"roasted nut, cocoa, roast beef",Cc1nccnc1C
-ethyl pyrazine,"peanut butter, wood",CCc1cnccn1
-caproic acid,sweat,CCCCCC(O)=O
+bornylmethylether,"earth, must",COC1CC2CCC1(C)C2(C)C
+dimethylpyrazine,"cocoa, roasted nut, roast beef, medicine",Cc1nccnc1C
+dimethylpyrazine,"roasted nut, cocoa, roast beef",Cc1nccnc1C
+ethylpyrazine,"peanut butter, wood",CCc1cnccn1
+caproicacid,sweat,CCCCCC(O)=O
 "2,4-hexadienal",green,CC=CC=CC=O
-pentanoic acid,sweat,CCCCC(O)=O
-dimethyl pyrazine,"nut, peanut butter, cocoa, meat",Cc1nccnc1C
+pentanoicacid,sweat,CCCCC(O)=O
+dimethylpyrazine,"nut, peanut butter, cocoa, meat",Cc1nccnc1C
 4-methylhexanol,sweat,CCC(C)CCCO
-fufuryl mercaptan,"coffee, roast",0
+fufurylmercaptan,"coffee, roast",0
 1-cyclohexen-3-one,pesticide,O=C1CCCC=C1
 acetylpyrroline,"nut, roast",CC(=O)N1CCC=C1
 nonane,alkane,CCCCCCCCC
 methoxymethylbutanethiol,"cat, black currant",CCCC(S)COC
-ethyl mercaptopropionate,sulfur,CCSOC(=O)CC
+ethylmercaptopropionate,sulfur,CCSOC(=O)CC
 dimethylthiazole,"roast, smoke",Cc1scc(C)n1
-dimethyl sulfone,"sulfur, burnt",C[S](C)(=O)=O
+dimethylsulfone,"sulfur, burnt",C[S](C)(=O)=O
 hexanethiol,sulfur,CCCCCCS
 heptanol,mushroom,CCCCCCCO
-methyl hexanoate,"fruit, fresh, sweet",CCCCCC(=O)OC
+methylhexanoate,"fruit, fresh, sweet",CCCCCC(=O)OC
 methyldihydrofuranthiol,meat,CC1(S)CC=CO1
 methylthiazoline,garlic,C[S]1=CNCC1
 2-ethylpyridine,grass,CCc1ccccn1
-α-pinene,"pine, turpentine",0
+alpha-pinene,"pine, turpentine",CC1=CCC2CC1C2(C)C
 mercaptomethylpentanone,black currant,CCCC(=O)CCS
 methyl-p-xylene,plastic,Cc1ccc(C)c(C)c1
-ethyl 3-hydroxybutanoate,marshmallow,CCOC(=O)CC(C)O
-butyl isothiocyanate,"sulfur, pungent, green",CCCCN=C=S
-α-thujene,"wood, green, herb",0
+ethyl3-hydroxybutanoate,marshmallow,CCOC(=O)CC(C)O
+butylisothiocyanate,"sulfur, pungent, green",CCCCN=C=S
+alpha-thujene,"wood, green, herb",CC(C)C12CC=C(C)C1C2
 2-pentanol,green,CCCC(C)O
 2-hepten-1-al,green,CCCCC=CC=O
 heptenal,"soap, fat, almond",CCCCC=CC=O
@@ -158,9 +158,9 @@ benzaldehyde,"almond, burnt sugar",O=Cc1ccccc1
 heptanol,"chemical, green",CCCCCCCO
 methionol,"sweet, potato",CSCCCO
 octanone,"herb, butter, resin",CCCCCCC(C)=O
-dimethyl trisulfide,"sulfur, fish, cabbage",CSSSC
+dimethyltrisulfide,"sulfur, fish, cabbage",CSSSC
 3-mercaptothiophene,cooked meat,Sc1cscc1
-ethyl isohexanoate,fruit,CCOC(=O)CCC(C)C
+ethylisohexanoate,fruit,CCOC(=O)CCC(C)C
 dimethylfuranthiol,meat,Cc1coc(S)c1C
 4-methylthio-2-butanone,fruit,CSCCC(C)=O
 methyldihydrothiophenone,"cabbage, onion, must",CC1CC=C[S]1=O
@@ -172,14 +172,14 @@ camphene,camphor,CC1(C)C2CCC(C2)C1=C
 octenol,mushroom,CCCCCCC=CO
 5-methylfurfural,"almond, caramel, burnt sugar",Cc1oc(C=O)cc1
 phenol,phenol,Oc1ccccc1
-methylisohexenyl ketone,"pepper, mushroom, rubber",CC(C)CC=CC(C)=O
+methylisohexenylketone,"pepper, mushroom, rubber",CC(C)CC=CC(C)=O
 octadienone,"geranium, metal",CCC=CC=CC(C)=O
 sabinene,"pepper, turpentine, wood",CC(C)C12CCC(=C)C1C2
 "1,5-octadien-3-ol","earth, herb",CCC=CCC(O)C=C
 "1,5-octadienone","earth, must",0
 "2,3-dehydro-1,8-cineole","mint, lemon",CC12CCC(C=C1)C(C)(C)O2
 pentylfuran,"green bean, butter",CCCCCc1occc1
-ethylmethyl pyrazine,"fruit, sweet",CCc1nccnc1C
+ethylmethylpyrazine,"fruit, sweet",CCc1nccnc1C
 trimethylthiazole,earth,Cc1sc(C)c(C)n1
 2-formylthiophene,sulfur,O=Cc1sccc1
 octanal,"fat, soap, lemon, green",CCCCCCCC=O
@@ -187,76 +187,76 @@ octanone,"soap, gasoline",CCCCCCC(C)=O
 methyldithiolane,sulfur,CC1CCSS1
 "2,4-heptadienal",fried,CCC=CC=CC=O
 trimethyl-pyrazine,"roast, potato, must",Cc1cnc(C)c(C)n1
-ethyl hexanoate,"apple peel, fruit",CCCCCC(=O)OCC
-2-methyl anisole,"warm, flower, walnut",COc1ccccc1C
-β-pinene,"pine, resin, turpentine",0
+ethylhexanoate,"apple peel, fruit",CCCCCC(=O)OCC
+2-methylanisole,"warm, flower, walnut",COc1ccccc1C
+beta-pinene,"pine, resin, turpentine",CC1(C)C2CCC(=C)C1C2
 2-octanol,"mushroom, fat",CCCCCCC(C)O
-β-carene,orange peel,0
-hexenyl acetate,"green, banana",CCCCC=CCC([O-])=O
-(+)-α-phellandrene,dill,0
+beta-carene,orange peel,CC1(C)C2CCC(=C)CC12
+hexenylacetate,"green, banana",CCCCC=CCC([O-])=O
+(+)-alpha-phellandrene,dill,0
 myrcene,"balsamic, must, spice",CC(C)=CCCC(=C)C=C
-ethyl lactate,fruit,CCOC(=O)C(C)O
+ethyllactate,fruit,CCOC(=O)C(C)O
 "2,4-heptadienal","nut, fat",CCC=CC=CC=O
 octanol,"moss, nut, mushroom",CCCCCCCCO
 acetylpyridine,popcorn,CC(=O)c1ccccn1
-hexyl acetate,"fruit, herb",CCCCCCOC(C)=O
+hexylacetate,"fruit, herb",CCCCCCOC(C)=O
 "2,3,4,5-tetrahydroanisole","herb, spice",COC1=CCCCC1
 5-(methylthio)-valeronitrile,"broccoli, cabbage",CSCCCCC#N
 methylfurfurylthiol,"sulfur, roast",0
 decane,alkane,CCCCCCCCCC
 "1,4-cineole",spice,CC(C)C12CCC(C)(CC1)O2
-β-cubebene,"citrus, fruit",0
+beta-cubebene,"citrus, fruit",CC(C)[C@@H]1CC[C@@H](C)[C@@]23CCC(=C)[C@@H]2[C@@H]13
 acetylthiazole,"roast, nut, sulfur",CC(=O)c1sccn1
 phenylethanal,"hawthorne, honey, sweet",O=CCc1ccccc1
-mercaptomethylbutyl formate,"cat, roast",CCCCC(=O)OCS
+mercaptomethylbutylformate,"cat, roast",CCCCC(=O)OCS
 acetylpyrazine,roast,CC(=O)c1cnccn1
 propionylpyrroline,roast,CCC(=O)N1CCC=C1
-α-phellandrene,"turpentine, mint, spice",0
+alpha-phellandrene,"turpentine, mint, spice",CC(C)C1CC=C(C)C=C1
 Propionylpyrrole,"roast, popcorn",CCC(=O)c1[nH]ccc1
-"(+)-limonene,","citrus, mint",0
+(+)-limonene,"citrus, mint",CC(=C)[C@@H]1CCC(=CC1)C
 "1,8-cineole","mint, sweet",CC12CCC(CC1)C(C)(C)O2
 2-ethylhexanol,"rose, green",CCCCC(CC)CO
-δ-3-carene,"lemon, resin",0
+delta-3-carene,"lemon, resin",0
 "2-acetyl-1,4,5,6-tetrahydropyridine",caramel,CC(=O)C1=CCCCN1
 methylethylpyrazine,sweat,CCc1nccnc1C
-α-terpinene,lemon,0
-benzylmethyl ether,metal,COCc1ccccc1
+alpha-terpinene,lemon,CC(C)C1=CC=C(C)CC1
+benzylmethylether,metal,COCc1ccccc1
 (E)-3-hexenol,"moss, fresh",CC/C=C/CCO
 limonene,"lemon, orange",CC(=C)C1CCC(=CC1)C
-ethyl hydroxybutanoate,caramel,CCC(O)(CC)C([O-])=O
+ethylhydroxybutanoate,caramel,CCC(O)(CC)C([O-])=O
 3-octenone,nut,CCCCC=CC(C)=O
-isopropyl hexanoate,fresh,CCCCCC(=O)OC(C)C
+isopropylhexanoate,fresh,CCCCCC(=O)OC(C)C
 3-octen-2-one,"nut, crushed bug",CCCCC=CC(C)=O
 furaneol™,caramel,0
-methyl octanoate,orange,CCCCCCCC(=O)OC
+methyloctanoate,orange,CCCCCCCC(=O)OC
 acetophenone,"must, flower, almond",CC(=O)c1ccccc1
 p-cymene,"solvent, gasoline, citrus",CC(C)c1ccc(C)cc1
-"(Z)-ocimene,","citrus, herb, flower",0
-isobutyl thiazole,"tomato leaf, green",CC(C)Cc1sccn1
+(Z)-ocimene,"citrus, herb, flower",0
+isobutylthiazole,"tomato leaf, green",CC(C)Cc1sccn1
 4-mercapto-4-methyl-2-pentanone,box tree,CC(=O)CC(C)(C)S
-butyl methylbutyrate,"fruit, cocoa",CCCCC(C)(CC)C([O-])=O
+butylmethylbutyrate,"fruit, cocoa",CCCCC(C)(CC)C([O-])=O
 norfuraneol,caramel,0
 2-acetylpyrrole,"nut, walnut, bread",CC(=O)c1[nH]ccc1
-methylethyl pyrazine,roast,CCc1nccnc1C
+methylethylpyrazine,roast,CCc1nccnc1C
 methyl-thiophenethiol,medicine,Cc1ccsc1S
 2-octenal,"green, nut, fat",CCCCCC=CC=O
 5-isopropyl-2-methylpyrazine,sweat,CC(C)c1cnc(C)cn1
 2-octenal,"green leaf, walnut",CCCCCC=CC=O
 dimethylmethoxyfuranone,"caramel, sweet, mildew",COC1C(=O)OC(=C1C)C
-β-phellandrene,"mint, terpentine",0
+beta-phellandrene,"mint, terpentine",CC(C)C1CCC(=C)C=C1
 ocimene,herb,CC(C)\C=C\C=C(/C)C=C
 dihydrolinalool,"wood, citrus, camphor",CCC(C)(O)CCC=C(C)C
 6(10)-dihydromyrcenol,"tart lime, citrus, cologne",0
 dimethylheptenal,"fruit, green, melon",CCCCC(C)=C(C)C=O
-α-ocimene,"fruit, wet cloth",0
-(E)-β-ocimene,"sweet, herb",0
+alpha-ocimene,"fruit, wet cloth",CC(=C)CCC=C(C)C=C
+(E)-beta-ocimene,"sweet, herb",CC(C)=CC/C=C(C)/C=C
 2-octenal,green,CCCCCC=CC=O
-artemisia ketone,"green, herb",0
+artemisiaketone,"green, herb",0
 "2-methoxy-3,6-dimethylpyrazine",earth,COc1nc(C)cnc1C
-"p, a -dimethylstyrol",gasoline,0
-cis-sabinene hydrate,balsamic,CC(C)C12CCC(C)(O)C1C2
+"p,a-dimethylstyrol",gasoline,0
+cis-sabinenehydrate,balsamic,CC(C)C12CCC(C)(O)C1C2
 guaiacol,"smoke, sweet, medicine",COc1ccccc1O
-γ-terpinene,"gasoline, turpentine",0
+gamma-terpinene,"gasoline, turpentine",CC(C)C1=CCC(=CC1)C
 hydroxydimethylcyclopentenone,caramel,CC1=C(C)C(=O)CC1O
 p-cresol,"medicine, phenol, smoke",Cc1ccc(O)cc1
 nonenone,"pungent, mushroom",CCCCCC=CC(C)=O
@@ -265,28 +265,28 @@ ethyldimethylthiazole,earth,CCc1sc(C)nc1C
 dihydromyrcenol,"tart lime, citrus, cologne",CC(CCCC(C)(C)O)C=C
 sotolon,"cotton candy, spice, maple",CC1OC(=O)C(=C1C)O
 thenylthiol,sulfur,0
-methyl benzoate,"prune, lettuce, herb, sweet",COC(=O)c1ccccc1
+methylbenzoate,"prune, lettuce, herb, sweet",COC(=O)c1ccccc1
 ethyldimethylpyrazine,potato,CCc1cnc(C)c(C)n1
 ethyldimethylpyrazine,"burnt, popcorn",CCc1cnc(C)c(C)n1
-artemisia alcohol,herb,0
+artemisiaalcohol,herb,0
 m-cresol,"fecal, plastic",Cc1cccc(O)c1
-dimethylethyl pyrazine,roast,CCc1ncc(C)nc1C
+dimethylethylpyrazine,roast,CCc1ncc(C)nc1C
 durene,"rancid, sweet",Cc1cc(C)c(C)cc1C
 maltol,caramel,CC1=C(O)C(=O)C=CO1
-(Z)-linalool oxide,flower,0
+(Z)-linalooloxide,flower,0
 octanol,"chemical, metal, burnt",CCCCCCCCO
 2-pentylthiophene,"sweet, fruit",CCCCCc1sccc1
 acetylthiophene,sulfur,CC(=O)c1sccc1
-pentyl butanoate,banana,CCCCCOC(=O)CCC
+pentylbutanoate,banana,CCCCCOC(=O)CCC
 "3,5-octadienone","fruit, fat, mushroom",CCC=CC=CC(C)=O
 3-nonenal,cucumber,CCCCCC=CCC=O
 nonanal,"fat, citrus, green",CCCCCCCCC=O
-propyl hexanoate,fruit,CCCCCC(=O)OCCC
-2-phenylethyl alcohol,"honey, spice, rose, lilac",OCCc1ccccc1
+propylhexanoate,fruit,CCCCCC(=O)OCCC
+2-phenylethylalcohol,"honey, spice, rose, lilac",OCCc1ccccc1
 3-nonenal,fat,CCCCCC=CCC=O
 isopropylmethoxypyrazine,"pea, earth",COc1nccnc1C(C)C
 "3,6-nonadienal","fat, soap",CCC=CCC=CCC=O
-ethyl heptylate,fruit,0
+ethylheptylate,fruit,0
 2-methyl-2-(methyldithio)propanal,"smoke, fat",CSSC(C)(C)C=O
 hotrienol,hyacinth,CC(=C)/C=C/CC(C)(O)C=C
 linalool,"flower, lavender",CC(C)=CCCC(C)(O)C=C
@@ -294,18 +294,18 @@ ethenyl-dimethylpyrazine,earth,Cc1ncc(C=C)nc1C
 "2,4-octadienal","green, seaweed, cucumber",CCCC=CC=CC=O
 octenol,"soap, plastic",CCCCCCC=CO
 acetylthiazoline,"roast, popcorn",CC(=O)[S]1=CNCC1
-δ-terpinene,"pine, plastic",0
-(E)-linalool oxide,flower,0
-(+)-cis-rose oxide,"green, flower",0
+delta-terpinene,"pine, plastic",0
+(E)-linalooloxide,flower,0
+(+)-cis-roseoxide,"green, flower",0
 nonanone,"hot milk, soap, green",CCCCCCCC(C)=O
-trans-sabinene hydrate,"wood, balsamic",CC(C)[C@]12CC[C@@](C)(O)C1C2
-(-)-cis-rose oxide,"sweet, rose",0
-methyl cinnamate,strawberry,COC(=O)C=Cc1ccccc1
+trans-sabinenehydrate,"wood, balsamic",CC(C)[C@]12CC[C@@](C)(O)C1C2
+(-)-cis-roseoxide,"sweet, rose",0
+methylcinnamate,strawberry,COC(=O)C=Cc1ccccc1
 p-menthatriene,turpentine,CC(C)c1ccc(C)cc1
 (methylbutenyl)-methylfuran,mint,CCC=C(C)c1ccoc1C
 undecane,alkane,CCCCCCCCCCC
-α-p-dimethylstyrene,"citrus, pine",0
-formylmethyl thiophene,sulfur,O=CCc1sccc1
+alpha-p-dimethylstyrene,"citrus, pine",0
+formylmethylthiophene,sulfur,O=CCc1sccc1
 4-ethyl-6-hepten-3-one,fish,CCC(CC=C)C(=O)CC
 "(E)-p-mentha-2,8-dien-1-ol","fresh, mint",0
 pinenol,"must, dust",CC1=CCC2CC1(O)C2(C)C
@@ -313,32 +313,32 @@ perillen,wood,CC(C)=CCCc1cocc1
 menthone,"fresh, green",CC(C)C1CCC(C)CC1=O
 octenhydroperoxide,"metal, mushroom",CCCCCCC=C.O[O-]
 "2-acetyl-3,4,5,6-tetrahydropyridine",caramel,CC(=O)C1=NCCCC1
-(E)-rose oxide,flower,0
-γ-heptalactone,"nut, fat, fruit",0
-nerol oxide,"oil, flower",CC(C)=CCCC1(C)OC1CO
-limonene oxide,fruit,0
-ethyl cyclohexanoate,fruit,CCOC(=O)C1CCCCC1
-methyl cyclohexanecarboxylate,"fruit, ester",COC(=O)C1CCCCC1
+(E)-roseoxide,flower,0
+gamma-heptalactone,"nut, fat, fruit",CCCC1CCC(=O)O1
+neroloxide,"oil, flower",CC(C)=CCCC1(C)OC1CO
+limoneneoxide,fruit,0
+ethylcyclohexanoate,fruit,CCOC(=O)C1CCCCC1
+methylcyclohexanecarboxylate,"fruit, ester",COC(=O)C1CCCCC1
 4-mercapto-4-methyl-2-pentanol,"flower, lemon",CC(O)CC(C)(C)S
-benzyl alcohol,"sweet, flower",OCc1ccccc1
-(Z)-limonene oxide,"fresh, citrus",0
+benzylalcohol,"sweet, flower",OCc1ccccc1
+(Z)-limoneneoxide,"fresh, citrus",0
 3-terpinen-1-ol,must,CC(C)C1=CCC(C)(O)CC1
 2-nonenal,"orris, fat, cucumber",CCCCCCC=CC=O
-(E)-limonene oxide,"fresh, citrus",0
-(+)-(E)-limonene oxide,green,0
+(E)-limoneneoxide,"fresh, citrus",0
+(+)-(E)-limoneneoxide,green,0
 camphor,camphor,CC1(C)C2CCC1(C)C(=O)C2
-fenchyl alcohol,camphor,0
-ethyl-4-hydroxymethyl- 3(2H)-Furanone,caramel,CCC1OC=C(CO)C1=O
-pentyl methylbutyrate,apple,CCCCCC(C)(CC)C([O-])=O
-α-fenchyl alcohol,camphor,0
-α-fenchyl alcohol,camphor,0
+fenchylalcohol,camphor,0
+ethyl-4-hydroxymethyl-3(2H)-Furanone,caramel,CCC1OC=C(CO)C1=O
+pentylmethylbutyrate,apple,CCCCCC(C)(CC)C([O-])=O
+alpha-fenchylalcohol,camphor,0
+alpha-fenchylalcohol,camphor,0
 menthone,mint,CC(C)C1CCC(C)CC1=O
-β-terpineol,must,0
+beta-terpineol,must,COc1cc(/C=C/CO)cc(OC)c1O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O
 methylcyclopentapyrazine,roast,Cc1[nH]c2cccc2nc1
 p-2-menthen-1-ol,herb,0
 (E)-2-nonenal,"cucumber, fat, green",CCCCCC/C=C/C=O
 3-(acetylthio)-2-methylfuran,roasted meat,CC(=O)Sc1ccoc1C
-octyl acetate,fruit,CCCCCCCCOC(C)=O
+octylacetate,fruit,CCCCCCCCOC(C)=O
 sesquiphellandrene,"sweet, fruit, herb",CC(CCC=C(C)C)C1CCC(=C)C=C1
 citronellal,fat,CC(CCC=C(C)C)CC=O
 2-nonenal,paper,CCCCCCC=CC=O
@@ -347,16 +347,16 @@ nonanol,"fat, green",CCCCCCCCCO
 acetylmethylcyclohexene,spice,CC(=O)CC1=CCCCC1
 homofuraneol,caramel,0
 diethylmethylpyrazine,baked,CCc1cnc(C)c(CC)n1
-4-pentenyl isothiocyanate,"mustard, horseradish",C=CCCCN=C=S
-benzyl acetate,"fresh, boiled vegetable",[O-]C(=O)CCc1ccccc1
-diethylmethyl pyrazine,"potato, meat, roast",CCc1cnc(C)c(CC)n1
+4-pentenylisothiocyanate,"mustard, horseradish",C=CCCCN=C=S
+benzylacetate,"fresh, boiled vegetable",[O-]C(=O)CCc1ccccc1
+diethylmethylpyrazine,"potato, meat, roast",CCc1cnc(C)c(CC)n1
 methyldithiofurane,"thiamin, meat",0
 methyl-(methyldithio)furan,"cooked meat, thiamin",CSSc1occc1C
-diethyl succinate,"wine, fruit",CCOC(=O)CCC(=O)OCC
+diethylsuccinate,"wine, fruit",CCOC(=O)CCC(=O)OCC
 "2,6-nonadienol",cucumber,CCC=CCCC=CCO
 nonadienol,cucumber,CCCCCC=CC=CO
 cis-isocitral,green,0
-camphene hydrate,camphor,0
+camphenehydrate,camphor,0
 pinocarveol,flower,CC1(C)C2CC(O)C(=C)C1C2
 ethylphenol,must,CCc1ccccc1O
 l-menthol,peppermint,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O
@@ -365,22 +365,22 @@ isoborneol,"must, camphor",CC1(C)C2CCC1(C)C(O)C2
 butylmethoxypyrazine,"carrot, earth",CCCCc1nccnc1OC
 phenylethylthiol,rubber,0
 (epoxymethylbutyl)-methylfuran,"green, earth, citrus",CCC1OC1(C)c2ccoc2C
-(Z)-3-hexenyl butanoate,"wine, green",CCCC\C=C/C(C)CC([O-])=O
+(Z)-3-hexenylbutanoate,"wine, green",CCCC\C=C/C(C)CC([O-])=O
 ethenyl-ethylmethylpyrazine,earth,CCc1nc(C=C)cnc1C
 S-(2-furfuryl)-ethanethioate,roast,CC([O-])=[SH]C1(C)CC=CO1
 epoxy-2-octenal,metal,CCCCCC1=C(O1)C=O
 methylisoborneol,"earth, must",0
 dimethyloctadienal,green,CCCC=CC(C)=C(C)C=O
-hexyl butanoate,apple peel,CCCCCCOC(=O)CCC
-ethyl benzoate,"camomile, flower, celery, fruit",CCOC(=O)c1ccccc1
+hexylbutanoate,apple peel,CCCCCCOC(=O)CCC
+ethylbenzoate,"camomile, flower, celery, fruit",CCOC(=O)c1ccccc1
 lavandulol,herb,CC(C)=CCC(CO)C(C)=C
-dill ether,dill,0
+dillether,dill,0
 2-nonanol,cucumber,CCCCCCCC(C)O
 (Z)-3-hexenyl-2-methylbutanoate,"herb, sweet",CCCC\C=C/C(C)C(C)C([O-])=O
 4-acetyltoluene,bitter almond,CC(=O)c1ccc(C)cc1
 pentylpyridine,fat,CCCCCc1ccccn1
 isobutylmethoxypyrazine,"earth, spice, green pepper",COc1nccnc1CC(C)C
-butyl hexanoate,fruit,CCCCCC(=O)OCCCC
+butylhexanoate,fruit,CCCCCC(=O)OCCCC
 o-cresol,phenol,Cc1ccccc1O
 abhexone,spice,0
 nitro-phenylethane,"flower, spice",CC(c1ccccc1)[N+]([O-])=O
@@ -389,351 +389,351 @@ dihydrocarveol,"mint, spice",CC1CCC(CC1O)C(C)=C
 "(E,Z)-2,4-nonadienal","geranium, pungent",CCCC\C=C/C=C/C=O
 carveol,"fresh, spearmint, caraway",CC(=C)C1CC=C(C)C(O)C1
 borneol,camphor,CC1(C)C2CCC1(C)C(O)C2
-ethyl octanoate,"fruit, fat",CCCCCCCC(=O)OCC
+ethyloctanoate,"fruit, fat",CCCCCCCC(=O)OCC
 1-terpinen-4-ol,"turpentine, nutmeg, must",CC(C)C1(O)CCC(=CC1)C
 neoisomenthol,menthol,CC(C)C1CCC(C)CC1O
 (Z)-4-decenal,"green, must",CCCCC\C=C/CCC=O
 "2,4-nonadienal",watermelon,CCCCC=CC=CC=O
 estragole,"licorice, anise",COc1ccc(CC=C)cc1
-ethyl octenoate,"must, oil, fruit, pungent",CCCCCC=CC(=O)OCC
+ethyloctenoate,"must, oil, fruit, pungent",CCCCCC=CC(=O)OCC
 (E)-dihydrocarvone,"warm, herb",C[C@@H]1CC[C@H](CC1=O)C(C)=C
 6-decenal,"tallow, green",CCCC=CCCCCC=O
 decanal,"soap, orange peel, tallow",CCCCCCCCCC=O
 6-decenal,cucumber,CCCC=CCCCCC=O
-dimethyl tetrasulfide,"cabbage, sulfur",CSSSSC
-linalool oxide,"flower, wood",CC(C)=CCCC(C)(O)C1CO1
+dimethyltetrasulfide,"cabbage, sulfur",CSSSSC
+linalooloxide,"flower, wood",CC(C)=CCCC(C)(O)C1CO1
 isodihydrocarveol,"wood, spice",CC1CCC(CC1O)C(C)=C
 naphthalene,tar,c1ccc2ccccc2c1
-isobutyric acid,"rancid, butter, cheese",CC(C)C(O)=O
+isobutyricacid,"rancid, butter, cheese",CC(C)C(O)=O
 dodecane,alkane,CCCCCCCCCCCC
 "2,4-nonadienal","fat, wax, green",CCCCC=CC=CC=O
 p-cymenol,"citrus, must",CC(C)c1ccc(C)cc1O
 (E)-carveol,"caraway, solvent",0
 (Z)-piperitol,herb,0
-linalyl formate,"citrus, coriander",CC(C)=CCCC(C)(C=C)C([O-])=O
-methyl nonanoate,coconut,CCCCCCCCC(=O)OC
+linalylformate,"citrus, coriander",CC(C)=CCCC(C)(C=C)C([O-])=O
+methylnonanoate,coconut,CCCCCCCCC(=O)OC
 (-)-carvone,mint,CC(=C)[C@@H]1CC=C(C)C(=O)C1
-diethyl malonate,apple,CCC(CC)(C([O-])=O)C([O-])=O
+diethylmalonate,apple,CCC(CC)(C([O-])=O)C([O-])=O
 syntexan,garlic,C[S](C)=O
 furfurylmethyldisulphide,smoke,CSSCc1occc1
 (Z)-carveol,caraway,0
 myrtenal,spice,CC1(C)C2CC=C(C=O)C1C2
 piperitol,herb,CC(C)C1CCC(=CC1O)C
-methyl salicylate,peppermint,COc1ccccc1C([O-])=O
+methylsalicylate,peppermint,COc1ccccc1C([O-])=O
 epoxy-p-menthene,"mint, dill",CC(C)C1CCC(=C2OC12)C
-γ-octalactone,coconut,0
-hexyl methylbutyrate,strawberry,CCCCCCC(C)(CC)C([O-])=O
+gamma-octalactone,coconut,CCCCC1CCC(=O)O1
+hexylmethylbutyrate,strawberry,CCCCCCC(C)(CC)C([O-])=O
 benzothiazole,"gasoline, rubber",s1cnc2ccccc12
-phenyl cyanide,rancid,N#Cc1ccccc1
+phenylcyanide,rancid,N#Cc1ccccc1
 3-mercaptohexyl-acetate,box tree,CCCC(S)CCCC([O-])=O
 piperitone,"mint, fresh",CC(C)C1CCC(=CC1=O)C
-isobornyl formate,"green, earth, camphor",0
+isobornylformate,"green, earth, camphor",0
 citronellol,rose,CC(CCO)CCC=C(C)C
 dihydromethylcyclopentapyrazine,"roast, nut",CN1CCN=C2C=CC=C12
 neral,lemon,CC(C)=CCC\C(C)=C/C=O
 chavicol,"medicine, phenol",Oc1ccc(CC=C)cc1
-β-cyclocitral,mint,0
+beta-cyclocitral,mint,CC1=C(C=O)C(C)(C)CCC1
 2-decenal,tallow,CCCCCCCC=CC=O
 2-decenal,orange,CCCCCCCC=CC=O
-β-phenethyl acetate,"rose, honey, tobacco",0
+beta-phenethylacetate,"rose, honey, tobacco",CC(CC([O-])=O)c1ccccc1
 2-decenal,tallow,CCCCCCCC=CC=O
 nerol,sweet,CC(C)=CCC\C(C)=C/CO
-(R)-linden ether,mint,0
-ethyl phenylacetate,"fruit, sweet",CCC(C([O-])=O)c1ccccc1
-hydrocinnamic alcohol,"cinnamon, anise, fruit",0
+(R)-lindenether,mint,0
+ethylphenylacetate,"fruit, sweet",CCC(C([O-])=O)c1ccccc1
+hydrocinnamicalcohol,"cinnamon, anise, fruit",0
 methylnonanedione,"straw, fruit",CCCCCCC(=O)C(=O)CC
 DL-carvone,"mint, basil, fennel",0
-phenylacetic acid,"honey, flower",OC(=O)Cc1ccccc1
+phenylaceticacid,"honey, flower",OC(=O)Cc1ccccc1
 citral,lemon,CC(C)=CCCC(C)=CC=O
 isogeraniol,rose,CC(C)=CC\C=C(C)/CCO
 (+)-carvone,caraway,CC(=C)[C@H]1CC=C(C)C(=O)C1
-bornyl formate,green,CC1(C)C2CCC1(C)C(C2)C([O-])=O
-p-anisyl alcohol,flower,COc1ccc(CO)cc1
+bornylformate,green,CC1(C)C2CCC1(C)C(C2)C([O-])=O
+p-anisylalcohol,flower,COc1ccc(CO)cc1
 sulfurol,sulfur,Cc1ncsc1CCO
-cumin aldehyde,"acid, sharp",CC(C)c1ccc(C=O)cc1
-linalyl acetate,"sweet, fruit",CC(C)=CCCC(C)(CC([O-])=O)C=C
-perilla aldehyde,spice,0
+cuminaldehyde,"acid, sharp",CC(C)c1ccc(C=O)cc1
+linalylacetate,"sweet, fruit",CC(C)=CCCC(C)(CC([O-])=O)C=C
+perillaaldehyde,spice,0
 p-anisaldehyde,"mint, sweet",COc1ccc(C=O)cc1
 decanol,fat,CCCCCCCCCCO
 o-aminoacetophenone,"foxy, sweet",CC(=O)c1ccccc1N
-isopulegyl acetate,"mint, leaf",0
+isopulegylacetate,"mint, leaf",0
 geranial,"lemon, mint",CC(C)=CCC\C(C)=C\C=O
 geraniol,"rose, geranium",CC(C)=CCC\C(C)=C\CO
-nonanoic acid,"green, fat",CCCCCCCCC(O)=O
-benzoic acid,urine,OC(=O)c1ccccc1
+nonanoicacid,"green, fat",CCCCCCCCC(O)=O
+benzoicacid,urine,OC(=O)c1ccccc1
 epoxy-2-nonenal,metal,CCCCCCC1=C(O1)C=O
-octanoic acid,"sweat, cheese",CCCCCCCC(O)=O
+octanoicacid,"sweat, cheese",CCCCCCCC(O)=O
 safrole,"spice, sweet, warm",C=CCc1ccc2OCOc2c1
 p-menthenethiol,grapefruit,CC(C)C1CCC(=CC1S)C
 (E)-cinnamaldehyde,"cinnamon, paint",O=C\C=C\c1ccccc1
 "2,4-decadienal",seaweed,CCCCCC=CC=CC=O
 4-ethylguaiacol,"spice, clove",CCc1ccc(OC)c(O)c1
 5-octanolide,peach,CCCC1CCCC(=O)O1
-methyl quinoxaline,"roast, nut, fruit",Cc1cnc2ccccc2n1
+methylquinoxaline,"roast, nut, fruit",Cc1cnc2ccccc2n1
 indole,"mothball, burnt",[nH]1ccc2ccccc12
 "1,3-p-menthadien-7-al","fat, spice",CC(C)C1=CC=C(CC1)C=O
 undecanone,"orange, fresh, green",CCCCCCCCCC(C)=O
 decadienal,"fried, fat",CCCCCC=CC=CC=O
-dihydroterpinyl acetate,"pine, citrus",0
-γ-butyrolactone,"caramel, sweet",0
-(Z)-β-Farnesene,"citrus, green",0
+dihydroterpinylacetate,"pine, citrus",0
+gamma-butyrolactone,"caramel, sweet",O=C1CCCO1
+(Z)-beta-Farnesene,"citrus, green",CCC(=C)CC\C=C(\C)CCC=C(C)C
 safranal,"herb, sweet",CC1=C(C=O)C(C)(C)CC=C1
-methyl geranate,"flower, green, fruit",CCC(C)=CCC\C(C)=C\C([O-])=O
-nonyl acetate,"sweet, fruit",CCCCCCCCCOC(C)=O
+methylgeranate,"flower, green, fruit",CCC(C)=CCC\C(C)=C\C([O-])=O
+nonylacetate,"sweet, fruit",CCCCCCCCCOC(C)=O
 decadienal,"fried, wax, fat",CCCCCC=CC=CC=O
 undecanaldehyde,"oil, pungent, sweet",CCCCCCCCCCC=O
-α-terpineol,"oil, anise, mint",0
-ethyl undecanoate,"cognac, coconut",CCCCCCCCCCC(=O)OCC
+alpha-terpineol,"oil, anise, mint",CC1=CCC(CC1)C(C)(C)O
+ethylundecanoate,"cognac, coconut",CCCCCCCCCCC(=O)OCC
 isopentyldimethylpyrazine,fruit,CC(C)CCc1cnc(C)c(C)n1
-cinnamyl alcohol,oil,OCC=Cc1ccccc1
+cinnamylalcohol,oil,OCC=Cc1ccccc1
 tridecane,alkane,CCCCCCCCCCCCC
 perillaldehyde,fat,CC(=C)C1CCC(=CC1)C=O
-(E)-oak lactone,"coconut, flower",0
-hydrocinnamic acid,balsamic,OC(=O)CCc1ccccc1
+(E)-oaklactone,"coconut, flower",0
+hydrocinnamicacid,balsamic,OC(=O)CCc1ccccc1
 4-hexanolide,"coumarin, sweet",CCC1CCC(=O)O1
 p-vinylguaiacol,"clove, curry",COc1ccc(C=C)cc1O
-methyl decanoate,wine,CCCCCCCCCC(=O)OC
+methyldecanoate,wine,CCCCCCCCCC(=O)OC
 p-mentha-dien-hydroperoxide,turpentine,CC(C)C1=CC=C(C)CC1.O[O-]
 ethylhydroxyhexanoate,fresh,CCCCC(O)(CC)C([O-])=O
 dimethoxytoluene,hummus,COc1cccc(C)c1OC
 oxodecanal,fat,CCCCCCCCC(=O)C=O
 4-methylthiazole,roasted meat,Cc1cscn1
-benzyl butanoate,plum,CCCC(=O)OCc1ccccc1
-dihydrocarvyl acetate,"mint, camphor, medicine",0
-δ-muurolene,oil,0
-methyl anthranilate,"honey, flower",COC(=O)c1ccccc1N
+benzylbutanoate,plum,CCCC(=O)OCc1ccccc1
+dihydrocarvylacetate,"mint, camphor, medicine",0
+delta-muurolene,oil,0
+methylanthranilate,"honey, flower",COC(=O)c1ccccc1N
 p-methoxystyrene,sweet,COc1ccc(C=C)cc1
 p-menthadienhydroperoxide,turpentine,CC(C)C1=CC=C(C)CC1.O[O-]
-heptyl 2-methylbutyrate,apple,CCCCCCCOC(=O)C(C)CC
+heptyl2-methylbutyrate,apple,CCCCCCCOC(=O)C(C)CC
 acetyloxy-dimethylfuranone,caramel,CC1C(=O)OC(=C1C)OC(C)=O
-cuminic alcohol,"wood, herb",0
-δ-elemene,wood,0
+cuminicalcohol,"wood, herb",0
+delta-elemene,wood,CC(C)C1=CC(C(C)=C)C(C)(CC1)C=C
 ethylfuranone,spice,CCC1C=COC1=O
-butyl benzoate,balsamic,CCCCOC(=O)c1ccccc1
-α-cubebene,"herb, wax",0
+butylbenzoate,balsamic,CCCCOC(=O)c1ccccc1
+alpha-cubebene,"herb, wax",CC(C)[C@@H]1CC[C@@H](C)[C@@]23CC=C(C)[C@@H]2[C@@H]13
 2-undecenal,sweet,CCCCCCCCC=CC=O
-ethyl dihydrocinnamate,flower,CCOC(=O)C=CC1CC=CC=C1
-citronellyl acetate,"rose, dust",CC(CCCC([O-])=O)CCC=C(C)C
-terpinyl acetate,wax,CC1(C)C2CCC(C)(C1C2)C34CC(CCC3(C)C5(C)CCC6CC5(CC([O-])=O)C6(C)C)C4(C)C
+ethyldihydrocinnamate,flower,CCOC(=O)C=CC1CC=CC=C1
+citronellylacetate,"rose, dust",CC(CCCC([O-])=O)CCC=C(C)C
+terpinylacetate,wax,CC1(C)C2CCC(C)(C1C2)C34CC(CCC3(C)C5(C)CCC6CC5(CC([O-])=O)C6(C)C)C4(C)C
 (E)-2-undecenal,"soap, fat, green",CCCCCCCC/C=C/C=O
-neryl acetate,fruit,CC(C)=CCCC(\C)=C/CCC([O-])=O
+nerylacetate,fruit,CC(C)=CCCC(\C)=C/CCC([O-])=O
 vanillin,vanilla,COc1cc(C=O)ccc1O
 p-menthadienhydroperoxide,turpentine,CC(C)C1=CC=C(C)CC1.O[O-]
-γ-nonalactone,"coconut, peach",0
-α-copaene,"wood, spice",0
+gamma-nonalactone,"coconut, peach",CCCCC[C@H]1CCC(=O)O1
+alpha-copaene,"wood, spice",CC(C)C1CCC2(C)C3CC=C(C)C2C13
 undecanol,mandarin,CCCCCCCCCCCO
 acetylpyrrolizine,medicine,CC(=O)C1C=Cn2cccc12
-decanoic acid,"rancid, fat",CCCCCCCCCC(O)=O
-β-damascenone,"apple. rose, honey",0
+decanoicacid,"rancid, fat",CCCCCCCCCC(O)=O
+beta-damascenone,"apple. rose, honey",C/C=C/C(=O)C1=C(C)C=CCC1(C)C
 epoxy-2-decenal,"metal, green",CCCCCCCC1=C(O1)C=O
-(Z)-3-hexenyl hexanoate,"fruit, prune",CCCC\C=C/C(CCC)CC([O-])=O
+(Z)-3-hexenylhexanoate,"fruit, prune",CCCC\C=C/C(CCC)CC([O-])=O
 p-menthadienhydroperoxide,turpentine,CC(C)C1=CC=C(C)CC1.O[O-]
-geranyl acetate,rose,CC(C)=CCCC(/C)=C/CCC([O-])=O
+geranylacetate,rose,CC(C)=CCCC(/C)=C/CCC([O-])=O
 "(E,Z)-3,6-nonadien-1-ol",fish,CC\C=C/C/C=C/CCO
-hexyl hexanoate,"apple peel, peach",CCCCCCOC(=O)CCCCC
+hexylhexanoate,"apple peel, peach",CCCCCCOC(=O)CCCCC
 skatole,"mothball, fecal",Cc1c[nH]c2ccccc12
-butyl octanoate,fruit,CCCCCCCC(=O)OCCCC
-styrene glycol,sweet,0
+butyloctanoate,fruit,CCCCCCCC(=O)OCCCC
+styreneglycol,sweet,0
 dehydro-ar-ionene,licorice,0
-β-elemene,"herb, wax, fresh",0
-isobornyl propionate,"fruit, turpentine",0
+beta-elemene,"herb, wax, fresh",CC(=C)[C@@H]1CC[C@@](C)(C=C)[C@@H](C1)C(C)=C
+isobornylpropionate,"fruit, turpentine",0
 ethylfuranone,spice,CCC1C=COC1=O
 eugenol,"clove, honey",COc1cc(CC=C)ccc1O
-methylene bis(methyl sulfide),"garlic, sulfur",0
-ethyl decanoate,grape,CCCCCCCCCC(=O)OCC
-cis-linalool pyran oxide,"citrus, green",0
-methyl eugenol,"clove, spice",COc1ccc(CC=C)cc1OC
-lauric aldehyde,"lily, fat, citrus",0
-decyl alcohol,"orange, oil",CCCCCCCCCCO
-carvyl acetate,"green, spearmint",0
-α-gurjunene,"wood, balsamic",0
+methylenebis(methylsulfide),"garlic, sulfur",0
+ethyldecanoate,grape,CCCCCCCCCC(=O)OCC
+cis-linaloolpyranoxide,"citrus, green",0
+methyleugenol,"clove, spice",COc1ccc(CC=C)cc1OC
+lauricaldehyde,"lily, fat, citrus",0
+decylalcohol,"orange, oil",CCCCCCCCCCO
+carvylacetate,"green, spearmint",0
+alpha-gurjunene,"wood, balsamic",0
 geosmin,"beet, earth",C[C@H]1CCC[C@@]2(C)CCCC[C@]12O
-(E)-β-damascone,apple,0
+(E)-beta-damascone,apple,C/C=C/C(=O)C1=C(C)CCCC1(C)C
 tetradecane,alkane,CCCCCCCCCCCCCC
-β-bourbonene,herb,0
-(-)-γ-elemene,"green, wood, oil",0
-α-ionone,"wood, violet",0
-(E)-α-bergamotene,"wood, warm, tea",0
-β-selinene,herb,0
-ethyl salicylate,"wintergreen, mint",CCOc1ccccc1C([O-])=O
-linalyl butyrate,"pear, sweet",CCCC(=O)OC(C)(CCC=C(C)C)C=C
+beta-bourbonene,herb,CC(C)[C@@H]1CC[C@@]2(C)[C@@H]3CCC(=C)[C@@H]3[C@@H]12
+(-)-gamma-elemene,"green, wood, oil",0
+alpha-ionone,"wood, violet",CC(=O)/C=C/C1C(=CCCC1(C)C)C
+(E)-alpha-bergamotene,"wood, warm, tea",0
+beta-selinene,herb,CC(=C)[C@@H]1CC[C@@]2(C)CCCC(=C)[C@@H]2C1
+ethylsalicylate,"wintergreen, mint",CCOc1ccccc1C([O-])=O
+linalylbutyrate,"pear, sweet",CCCC(=O)OC(C)(CCC=C(C)C)C=C
 isocaryophyllene,wood,C\C1=C\CCC(=C)[C@H]2CC(C)(C)[C@@H]2CC1
 coumarin,"green, sweet",O=C1Oc2ccccc2C=C1
-γ-decalactone,"peach, fat",0
+gamma-decalactone,"peach, fat",CCCCCCC1CCC(=O)O1
 erucin,cabbage,CSCCCCN=C=S
-geranyl acetone,"magnolia, green",CC(C)=CCCC(/C)=C/CCC(C)=O
-α-guaiene,"wood, balsamic",0
-β-caryophyllene,"wood, spice",0
-γ-selinene,wood,0
-wine lactone,"coconut, spice",0
-δ-decalactone,coconut,0
+geranylacetone,"magnolia, green",CC(C)=CCCC(/C)=C/CCC(C)=O
+alpha-guaiene,"wood, balsamic",C[C@H]1CC[C@H](CC2=C1CC[C@@H]2C)C(C)=C
+beta-caryophyllene,"wood, spice",C\C1=C/CCC(=C)[C@H]2CC(C)(C)[C@@H]2CC1
+gamma-selinene,wood,CC(C)=C1CCC2(C)CCCC(=C)C2C1
+winelactone,"coconut, spice",0
+delta-decalactone,coconut,CCCCCC1CCCC(=O)O1
 isogeraniol,rose,CC(C)=CC\C=C(C)/CCO
 2-dodecenal,"green, fat, sweet",CCCCCCCCCC=CC=O
-butyl decanoate,whiskey,CCCCCCCCCC(=O)OCCCC
-cinnamic acid,honey,OC(=O)C=Cc1ccccc1
-β-farnesene,"wood, citrus, sweet",0
-ethyl cinnamate,"honey, cinnamon",CCOC(=O)C=Cc1ccccc1
-δ-decalactone,peach,0
+butyldecanoate,whiskey,CCCCCCCCCC(=O)OCCCC
+cinnamicacid,honey,OC(=O)C=Cc1ccccc1
+beta-farnesene,"wood, citrus, sweet",CCC(=C)CC\C=C(/C)CCC=C(C)C
+ethylcinnamate,"honey, cinnamon",CCOC(=O)C=Cc1ccccc1
+delta-decalactone,peach,CCCCCC1CCCC(=O)O1
 aromadendrene,wood,CC1CCC2C1C3C(CCC2=C)C3(C)C
-R-δ-decenolactone,peach,0
-linalyl isovalerate,"sweet, apple, citrus",CC(C)CC(=O)OC(C)(CCC=C(C)C)C=C
+R-delta-decenolactone,peach,0
+linalylisovalerate,"sweet, apple, citrus",CC(C)CC(=O)OC(C)(CCC=C(C)C)C=C
 asaricin,"spice, pepper",0
 "ethyl-(E,Z)-2,4-decadienoate",pear,CCCCC\C=C/C=C/C(=O)OCC
 elemicin,"spice, flower",COc1cc(CC=C)cc(OC)c1OC
-β-guaiene,"wood, spice",0
-β-ionone,"seaweed, violet, flower, raspberry",0
+beta-guaiene,"wood, spice",0
+beta-ionone,"seaweed, violet, flower, raspberry",CC(=O)/C=C/C1=C(C)CCCC1(C)C
 epoxy-2-undecenal,metal,CCCCCCCCC1=C(O1)C=O
-citronellyl isobutyrate,"fruit, rose",CC(CCOC(=O)C(C)C)CCC=C(C)C
- p-coumaric acid,balsamic,0
-p-menth-1-en-9-yl acetate,"fruit, herb",CC(CCC([O-])=O)C1CCC(=CC1)C
+citronellylisobutyrate,"fruit, rose",CC(CCOC(=O)C(C)C)CCC=C(C)C
+p-coumaricacid,balsamic,0
+p-menth-1-en-9-ylacetate,"fruit, herb",CC(CCC([O-])=O)C1CCC(=CC1)C
 p-menth-1-en-9-ol,"fruit, herb",CC(CO)C1CCC(=CC1)C
-α-humulene,wood,0
+alpha-humulene,wood,C\C1=C/CC(C)(C)\C=C\CC(=C/CC1)/C
 valencene,"green, oil",CC1CCC=C2CCC(CC12C)C(C)=C
-bornyl butyrate,"herb, wood",CCCC(=O)OC1CC2CCC1(C)C2(C)C
-undecylic acid,oil,CCCCCCCCCCC(O)=O
+bornylbutyrate,"herb, wood",CCCC(=O)OC1CC2CCC1(C)C2(C)C
+undecylicacid,oil,CCCCCCCCCCC(O)=O
 isopiperitone,"sweet, fruit",0
-ethyl laurate,leaf,CCCCCCCCCCCC(=O)OCC
-α-zingiberene,"spice, fresh, sharp",0
+ethyllaurate,leaf,CCCCCCCCCCCC(=O)OCC
+alpha-zingiberene,"spice, fresh, sharp",C[C@@H](CCC=C(C)C)[C@H]1CC=C(C)C=C1
 alloaromadendrene,wood,C[C@H]1CCC2C1[C@H]3[C@@H](CCC2=C)C3(C)C
-γ-muurolene,"herb, wood, spice",0
+gamma-muurolene,"herb, wood, spice",0
 tridecanal,"flower, sweet, must",CCCCCCCCCCCCC=O
-methyl laurate,"fat, coconut",CCCCCCCCCCCC(=O)OC
+methyllaurate,"fat, coconut",CCCCCCCCCCCC(=O)OC
 bis(2-methyl-3-furyl)disulphide,roasted meat,Cc1occc1SSc2ccoc2C
-raspberry ketone,raspberry,0
+raspberryketone,raspberry,0
 pentadecane,alkane,CCCCCCCCCCCCCCC
-germacrene D,"wood, spice",0
+germacreneD,"wood, spice",0
 bicyclogermacrene,"green, wood",C\C1=C/CCC(=C/C2C(CC1)C2(C)C)/C
-linalyl valerate,"citrus, lavender",CCCCC(=O)OC(C)(CCC=C(C)C)C=C
-α-muurolene,wood,0
+linalylvalerate,"citrus, lavender",CCCCC(=O)OC(C)(CCC=C(C)C)C=C
+alpha-muurolene,wood,CC(C)C1CC=C(C)C2CCC(=CC12)C
 berteroin,cabbage,0
 3-mercaptohexanol,sulfur,CCCC(S)CCO
-citronellyl butyrate,"fruit, sweet, rose",CCCC(=O)OCCC(C)CCC=C(C)C
-bornyl isovalerate,"herb, earth, green",CC(C)CC(=O)OC1CC2CCC1(C)C2(C)C
-(-)-β-bisabolene,balsamic,0
+citronellylbutyrate,"fruit, sweet, rose",CCCC(=O)OCCC(C)CCC=C(C)C
+bornylisovalerate,"herb, earth, green",CC(C)CC(=O)OC1CC2CCC1(C)C2(C)C
+(-)-beta-bisabolene,balsamic,0
 myristicin,"spice, warm, balsamic",COc1cc(CC=C)cc2OCOc12
-α-farnesene,"wood, sweet",0
+alpha-farnesene,"wood, sweet",CC(C)=CCC\C(C)=C\C\C=C(/C)C=C
 cadinadiene,"spice, fruit",0
 (Z)-oak-lactone,spice,0
-γ-cadinene,wood,0
+gamma-cadinene,wood,CC(C)C1CCC(=C)C2CCC(=CC12)C
 elemol,"green, wood",CC(=C)C1CC(CCC1(C)C=C)C(C)(C)O
-δ-cadinene,"thyme, medicine, wood",0
-geranyl butyrate,"fruit, rose, apple",CCCC(=O)OC\C=C(/C)CCC=C(C)C
-α-curcumene,herb,0
-caryophyllene alcohol,"moss, earth, spice",0
-β-sesquiphellandrene,wood,0
-germacrene B,"wood, earth, spice",0
+delta-cadinene,"thyme, medicine, wood",CC(C)C1CCC(=C2CCC(=CC12)C)C
+geranylbutyrate,"fruit, rose, apple",CCCC(=O)OC\C=C(/C)CCC=C(C)C
+alpha-curcumene,herb,C[C@H](CCC=C(C)C)c1ccc(C)cc1
+caryophyllenealcohol,"moss, earth, spice",0
+beta-sesquiphellandrene,wood,C[C@@H](CCC=C(C)C)C1CCC(=C)C=C1
+germacreneB,"wood, earth, spice",0
 (Z)-nerolidol,wax,CC(C)=CCCC(\C)=C/CCC(C)(O)C=C
-hexyl octanoate,"herb, green, oil",CCCCCCCC(=O)OCCCCCC
+hexyloctanoate,"herb, green, oil",CCCCCCCC(=O)OCCCCCC
 calamenene,"herb, spice",CC(C)C1CCC(C)c2ccc(C)cc12
-isopropyl benzoate,"sweet, fruit",CC(C)OC(=O)c1ccccc1
+isopropylbenzoate,"sweet, fruit",CC(C)OC(=O)c1ccccc1
 12-methyltridecanal,"cooked meat, tallow, fat, meat broth, sweat",CC(C)CCCCCCCCCCC=O
-lauryl alcohol,"fat, wax",CCCCCCCCCCCCO
+laurylalcohol,"fat, wax",CCCCCCCCCCCCO
 nerolidol,"wood, flower, wax",CC(C)=CCCC(C)=CCCC(C)(O)C=C
 guaiol,"wood, balsamic",C[C@H]1CC[C@H](CC2=C1CC[C@@H]2C)C(C)(C)O
 dehydrocarveol,"oil, herb",0
 tridecanol,must,CCCCCCCCCCCCCO
 (E)-isoelemicin,"spice, flower",COc1cc(\C=C\C)cc(OC)c1OC
-dill apiol,"wood, spice",COc1c(CC=C)cc2OCOc2c1OC
+dillapiol,"wood, spice",COc1c(CC=C)cc2OCOc2c1OC
 cedrenol,fruit,0
-δ-undecalactone,peach,0
-geranyl isovalerate,"fruit, rose, apple",CC(C)CC(=O)OC\C=C(/C)CCC=C(C)C
-epoxy-β-ionone,"fruit, sweet, wood",0
-tetradecyl aldehyde,"flower, wax",CCCCCCCCCCCCCC=O
-(E)-2-hexenoic acid,"must, fat",CCC/C=C/C(O)=O
+delta-undecalactone,peach,CCCCCCC1CCCC(=O)O1
+geranylisovalerate,"fruit, rose, apple",CC(C)CC(=O)OC\C=C(/C)CCC=C(C)C
+epoxy-beta-ionone,"fruit, sweet, wood",0
+tetradecylaldehyde,"flower, wax",CCCCCCCCCCCCCC=O
+(E)-2-hexenoicacid,"must, fat",CCC/C=C/C(O)=O
 hexadecane,alkane,CCCCCCCCCCCCCCCC
-caryophyllene oxide,"herb, sweet, spice",0
+caryophylleneoxide,"herb, sweet, spice",0
 spathulenol,"herb, fruit",CC1(O)CCC2[C@@H]1C3C(CCC2=C)C3(C)C
 levomenol,herb,CC(C)=CCCC(C)(O)C1CCC(=CC1)C
-citronellyl valerate,"warm, honey, herb, rose",CCCCC(=O)OCCC(C)CCC=C(C)C
-methyl jasmonate,jasmine,CC\C=C/C[C@@H]1[C@H](CCC1=O)CC(=O)OC
-(E)-Whiskey lactone,"flower, lactone",0
-(Z)-whiskey lactone,coconut,0
-β-caryophyllene alcohol,"earth, moss",0
-humulene oxide,herb,0
+citronellylvalerate,"warm, honey, herb, rose",CCCCC(=O)OCCC(C)CCC=C(C)C
+methyljasmonate,jasmine,CC\C=C/C[C@@H]1[C@H](CCC1=O)CC(=O)OC
+(E)-Whiskeylactone,"flower, lactone",0
+(Z)-whiskeylactone,coconut,0
+beta-caryophyllenealcohol,"earth, moss",0
+humuleneoxide,herb,0
 (-)-cubenol,"spice, herb, green tea",OC12C3C4C5C3C1=C5C24
-geranyl valerate,"rose, fruit",CCCCC(=O)OC\C=C(/C)CCC=C(C)C
-methyl tetradecanoate,orris,CCCCCCCCCCCCCC(=O)OC
+geranylvalerate,"rose, fruit",CCCCC(=O)OC\C=C(/C)CCC=C(C)C
+methyltetradecanoate,orris,CCCCCCCCCCCCCC(=O)OC
 bulnesol,spice,CC1CCC2=C(C)CCC(CC12)C(C)(C)O
-β-eudesmol,"wood, green",0
-(Z)-6-dodecen-γ-lactone,soap,0
-methyl epijasmonate,jasmine,0
+beta-eudesmol,"wood, green",CC(C)(O)[C@@H]1CC[C@@]2(C)CCCC(=C)[C@@H]2C1
+(Z)-6-dodecen-gamma-lactone,soap,CCCCC\C=C/CCC1CC(=O)O1
+methylepijasmonate,jasmine,0
 "cadina-1,4-dien-3-ol","wood, spice",CC(C)C1CCC(C)C2=CC(O)C(=CC12)C
-(Z)-6-dodecene-γ-lactone,"peach, sweet",0
-α-bisabolol,"spice, flower",0
-oxo-β-ionone,wood,0
-methyl dihydroepijasmonate,jasmine,0
-β-bisabolol,"sweet, herb",0
-butyl laurate,oil,CCCCCCCCCCCC(=O)OCCCC
-δ-cadinol,herb,0
+(Z)-6-dodecene-gamma-lactone,"peach, sweet",CCCCC\C=C/CCC1CC(=O)O1
+alpha-bisabolol,"spice, flower",CC(C)=CCCC(C)(O)C1CCC(=CC1)C
+oxo-beta-ionone,wood,0
+methyldihydroepijasmonate,jasmine,0
+beta-bisabolol,"sweet, herb",CC(CCC=C(C)C)C1(O)CCC(=CC1)C
+butyllaurate,oil,CCCCCCCCCCCC(=O)OCCCC
+delta-cadinol,herb,CC(C)C1CC[C@@](C)(O)[C@H]2CCC(=C[C@@H]12)C
 T-muurolol,"herb, weak spice",CC(C)[C@@H]1CC[C@](C)(O)[C@H]2CCC(=C[C@@H]12)C
 7-methoxycoumarin,"balsamic, sweet",COc1ccc2C=CC(=O)Oc2c1
 pantolactone,cotton candy,CC1(C)COC(=O)C1O
-γ-dodecalactone,"sweet, fruit, flower",0
+gamma-dodecalactone,"sweet, fruit, flower",CCCCCCCCC1CCC(=O)O1
 zingiberenol,metal,0
 "2,6-dimethylnaphthalene",grass,Cc1ccc2cc(C)ccc2c1
-α-cadinol,"herb, wood",0
+alpha-cadinol,"herb, wood",CC(C)[C@@H]1CC[C@@](C)(O)C2CCC(=C[C@@H]12)C
 (E)-2-dodecen-1-ol,oil,CCCCCCCCC/C=C/CO
 7-heptadecene,alkane,CCCCCCCCCC=CCCCCCC
-ethyl tetradecanoate,ether,CCCCCCCCCCCCCC(=O)OCC
-β-farnesol,"flower, oil",0
-α-caryophyllene alcohol,earth,0
-methyl cinnamate,strawberry,COC(=O)C=Cc1ccccc1
-diethyl malate,"brown sugar, sweet",CCOC(=O)CC(O)C(=O)OCC
-β-sinensal,sweet,0
+ethyltetradecanoate,ether,CCCCCCCCCCCCCC(=O)OCC
+beta-farnesol,"flower, oil",0
+alpha-caryophyllenealcohol,earth,0
+methylcinnamate,strawberry,COC(=O)C=Cc1ccccc1
+diethylmalate,"brown sugar, sweet",CCOC(=O)CC(O)C(=O)OCC
+beta-sinensal,sweet,CC(/CC\C=C(/C)C=O)=C\CCC(=C)C=C
 pentadecanal,fresh,CCCCCCCCCCCCCCC=O
 heptadecane,alkane,CCCCCCCCCCCCCCCCC
-δ-dodecalactone,"fruit, sweet",0
+delta-dodecalactone,"fruit, sweet",CCCCCCCC1CCCC(=O)O1
 (E)-farnesol,muguet,CC(C)=CCCC(C)=CCCC(/C)=C/CO
 ethyl-(E)-cinnamate,"flower, honey",CCOC(=O)\C=C\c1ccccc1
 viridiflorol,"green, sweet",C[C@@H]1CC[C@H]2[C@@H]1C3[C@@H](CC[C@]2(C)O)C3(C)C
 trimethylphenylbutenone,"flower, green",CC(=C)C(=O)C(C)(C)c1ccccc1
-benzyl benzoate,"balsamic, oil, herb",O=C(OCc1ccccc1)c2ccccc2
-methyl furaneol,"cotton candy, sweet",Cc1ccoc1O
-bornyl benzoate,"pine, balsamic",CC1(C)C2CCC1(C)C(C2)OC(=O)c3ccccc3
+benzylbenzoate,"balsamic, oil, herb",O=C(OCc1ccccc1)c2ccccc2
+methylfuraneol,"cotton candy, sweet",Cc1ccoc1O
+bornylbenzoate,"pine, balsamic",CC1(C)C2CCC1(C)C(C2)OC(=O)c3ccccc3
 perhydrofarnesylacetone,fat,0
-10-epi-γ-eudesmol,"sweet, wood, flower",0
+10-epi-gamma-eudesmol,"sweet, wood, flower",0
 (+)-nootkatone,grapefruit,0
 hexadecanone,fruit,CCCCCCCCCCCCCCC(C)=O
 4-propyl-guaiacol,phenol,CCCc1ccc(OC)c(O)c1
 palmitaldehyde,cardboard,CCCCCCCCCCCCCCCC=O
 (-)-nootkatone,terpentine,0
 octadecane,alkane,CCCCCCCCCCCCCCCCCC
-Diethyl 2-hydroxyglutarate,cotton candy,CCOC(=O)CCC(O)C(=O)OCC
+Diethyl2-hydroxyglutarate,cotton candy,CCOC(=O)CCC(O)C(=O)OCC
 uncineol,"wax, sweet",0
-phenylethyl benzoate,"flower, honey",O=C(OCCc1ccccc1)c2ccccc2
+phenylethylbenzoate,"flower, honey",O=C(OCCc1ccccc1)c2ccccc2
 p-hydroethylbenzene,"phenol, spice",0
-α-calacorene,wood,0
+alpha-calacorene,wood,CC(C)C1CC=C(C)c2ccc(C)cc12
 hexadecanol,"flower, wax",CCCCCCCCCCCCCCCCO
-cetyl alcohol,"wax, flower",CCCCCCCCCCCCCCCCO
+cetylalcohol,"wax, flower",CCCCCCCCCCCCCCCCO
 4-Carbethoxybutyrolactone,"roast, smoke",CCOC(=O)C1CCC(=O)O1
 eudesmol,"sweet, wood",C[C@@H]1CC[C@H]2C(C)(C)[C@H]3C[C@@]12CC[C@@]3(C)O
-ethyl hexadecanoate,wax,CCCCCCCCCCCCCCCC(=O)OCC
+ethylhexadecanoate,wax,CCCCCCCCCCCCCCCC(=O)OCC
 isoeugenol,flower,COc1cc(C=CC)ccc1O
 nonadecane,alkane,CCCCCCCCCCCCCCCCCCC
-γ-undecalactone,apricot,0
-"(E,E)-farnesyl acetate","oil, wax",CC(C)=CCCC(/C)=C/CCC(/C)=C/CCC([O-])=O
+gamma-undecalactone,apricot,CCCCCCC[C@H]1CCC(=O)O1
+"(E,E)-farnesylacetate","oil, wax",CC(C)=CCCC(/C)=C/CCC(/C)=C/CCC([O-])=O
 trimethylphenylbutenone,"flower, green",CC(=C)C(=O)C(C)(C)c1ccccc1
 syringol,"medicine, phenol, smoke",COc1cccc(OC)c1O
-isopropyl palmitate,fat,CCCCCCCCCCCCCCCC(=O)OC(C)C
-diethyl tartrate,"earth, must",CCOC(=O)C(O)C(O)C(=O)OCC
+isopropylpalmitate,fat,CCCCCCCCCCCCCCCC(=O)OC(C)C
+diethyltartrate,"earth, must",CCOC(=O)C(O)C(O)C(=O)OCC
 "(E,E)-farnesylacetone","flower, ether",CC(C)=CCCC(/C)=C/CCC(/C)=C/CCC(C)=O
 eicosane,alkane,CCCCCCCCCCCCCCCCCCCC
 (E)-isoeugenol,flower,COc1cc(\C=C\C)ccc1O
 octadecanaldehyde,oil,CCCCCCCCCCCCCCCCCC=O
 4-vinylphenol,almond shell,Oc1ccc(C=C)cc1
-oleic acid,fat,CCCCCCCC\C=C/CCCCCCCC(O)=O
-methyl octadecenoate,fat,CCCCCCCCCCCCCCCC=CC(=O)OC
+oleicacid,fat,CCCCCCCC\C=C/CCCCCCCC(O)=O
+methyloctadecenoate,fat,CCCCCCCCCCCCCCCC=CC(=O)OC
 hydroxycalamenene,herb,0
 tetradecanol,coconut,CCCCCCCCCCCCCCO
 heneicosane,alkane,CCCCCCCCCCCCCCCCCCCCC
 phytol,flower,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC\C(C)=C\CO
 5-oxymethylfurfurole,cardboard,OCc1oc(C=O)cc1
-lauric acid,metal,CCCCCCCCCCCC(O)=O
+lauricacid,metal,CCCCCCCCCCCC(O)=O
 docosane,alkane,CCCCCCCCCCCCCCCCCCCCCC
 6-Methoxyeugenol,"sweet, flower",COc1c(O)ccc(CC=C)c1OC
-stearyl alcohol,oil,CCCCCCCCCCCCCCCCCCO
-methyl vanillate,"caramel, butterscotch, vanilla",COC(=O)c1ccc(O)c(OC)c1
-ethyl vanillate,"flower, fruit, sweet, vanilla",CCOC(=O)c1ccc(O)c(OC)c1
+stearylalcohol,oil,CCCCCCCCCCCCCCCCCCO
+methylvanillate,"caramel, butterscotch, vanilla",COC(=O)c1ccc(O)c(OC)c1
+ethylvanillate,"flower, fruit, sweet, vanilla",CCOC(=O)c1ccc(O)c(OC)c1
 acetovanillone,vanilla,COc1cc(ccc1O)C(C)=O
-3-oxo-α-ionol,spice,0
+3-oxo-alpha-ionol,spice,0
 tricosane,alkane,CCCCCCCCCCCCCCCCCCCCCCC
