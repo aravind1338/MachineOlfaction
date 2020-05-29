@@ -20,6 +20,7 @@ def flavornet_data():
 
     for index in range(1, len(odor_tags)):
         odorant = odorant_tags[index].text.strip('\n') # Get the odorant from the tag and strip newline from the name
+        odorant = odorant.strip(',') # Strip leading and trailing commas from the molecule name
         odor = odor_tags[index].text # Get the odor from the tag
         SMILES = molecule_to_smiles(odorant.replace(" ", ""))  # Get the SMILES representation for the molecule
 
