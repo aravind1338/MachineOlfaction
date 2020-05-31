@@ -84,10 +84,10 @@ def getChemicalProperties(SMILE):
             property_names.append(name)
             properties.append(value)
 
-    except:
-        pass
+        return property_names, properties
 
-    return property_names, properties
+    except:
+        return ["N/A"]*25, ["N/A"]*25  # RDKit gives you 25 properties
 
 
 if __name__ == '__main__':
