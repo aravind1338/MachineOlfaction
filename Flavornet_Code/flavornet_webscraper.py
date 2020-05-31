@@ -4,12 +4,15 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 import csv
 from urllib.request import urlopen
+from rdkit import Chem
+from rdkit.Chem import rdMolDescriptors
 
 
 # function to scrape the website
 def flavornet_data():
 
     odors_and_odorants = []
+    property_names = []
 
     soup = BeautifulSoup(open('odorants.html'), 'html.parser')
 
@@ -27,10 +30,14 @@ def flavornet_data():
         odor = odor_tags[index].text  # Get the odor from the tag
         SMILES = molecule_to_smiles(odorant)  # Get the SMILES representation for the molecule
 
+        """ Getting the molecular properties for the odorant """
+        if SMILES != '0':
+            property_names, properties = getChemicalProperties(SMILES)
+
         if index % 10 == 0:
             print("Finished %d molecules" % index)
 
-        temp = [odorant, odor, SMILES]
+        temp = [odorant, odor, SMILES] + properties
         odors_and_odorants.append(temp)
 
 
@@ -38,7 +45,7 @@ def flavornet_data():
     data_folder = Path('../Datasets/')
     file_to_open = data_folder/'flavornet_dataset.csv'
     with open(file_to_open, 'w+') as file:
-        header = ['Odorant', 'Odor', 'SMILES representation']
+        header = ['Odorant', 'Odor', 'SMILES representation'] + property_names
         writer = csv.writer(file)
         writer.writerow(header)
         writer.writerows(odors_and_odorants)
@@ -64,6 +71,23 @@ def molecule_to_smiles(molecule):
     except:
         # If there is no SMILES representation, for whatever reason
         return 0
+
+
+# A functions that uses RDKit to generate chemical properties from SMILES representation
+def getChemicalProperties(SMILE):
+    property_names = []
+    properties = []
+    try:
+        molecule = Chem.MolFromSmiles(SMILE)
+        generate_properties = rdMolDescriptors.Properties()
+        for name, value in zip(generate_properties.GetPropertyNames(), generate_properties.ComputeProperties(molecule)):
+            property_names.append(name)
+            properties.append(value)
+
+    except:
+        pass
+
+    return property_names, properties
 
 
 if __name__ == '__main__':
