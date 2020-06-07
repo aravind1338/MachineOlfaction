@@ -10,7 +10,6 @@ from rdkit.Chem import rdMolDescriptors
 
 def flavornet_data():
     # function to scrape the website
-    
     odors_and_odorants = []
     property_names = []
 
