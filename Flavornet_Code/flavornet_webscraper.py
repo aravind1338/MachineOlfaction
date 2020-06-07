@@ -8,9 +8,9 @@ from rdkit import Chem
 from rdkit.Chem import rdMolDescriptors
 
 
-# function to scrape the website
 def flavornet_data():
-
+    # function to scrape the website
+    
     odors_and_odorants = []
     property_names = []
 
@@ -44,15 +44,20 @@ def flavornet_data():
     # Write to csv file
     data_folder = Path('../Datasets/')
     file_to_open = data_folder/'flavornet_dataset.csv'
-    with open(file_to_open, 'w+') as file:
-        header = ['Odorant', 'Odor', 'SMILES representation'] + property_names
+    create_CSV(file_to_open, odors_and_odorants, property_names)
+
+
+def create_CSV(file, odors_and_odorants, properties):
+    # Function to write the scraped data to the CSV
+    with open(file, 'w+') as file:
+        header = ['Odorant', 'Odor', 'SMILES representation'] + properties
         writer = csv.writer(file)
         writer.writerow(header)
         writer.writerows(odors_and_odorants)
 
 
-# A function to replace greek symbols with their names
 def replace_unicode(molecule):
+    # A function to replace greek symbols with their names
     alpha_unicode = u"\u03B1"
     beta_unicode = u"\u03B2"
     gamma_unicode = u"\u03B3"
@@ -62,8 +67,8 @@ def replace_unicode(molecule):
     return molecule
 
 
-# A function that gives you the SMILES representation of a molecule
 def molecule_to_smiles(molecule):
+    # A function that gives you the SMILES representation of a molecule
     try:
         url = 'https://cactus.nci.nih.gov/chemical/structure/' + molecule + '/smiles'
         SMILES = urlopen(url).read().decode('utf8')
@@ -73,8 +78,8 @@ def molecule_to_smiles(molecule):
         return 0
 
 
-# A functions that uses RDKit to generate chemical properties from SMILES representation
 def getChemicalProperties(SMILE):
+    # A functions that uses RDKit to generate chemical properties from SMILES representation
     property_names = []
     properties = []
     try:
